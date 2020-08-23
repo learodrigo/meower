@@ -2,7 +2,11 @@
     text-align: center;
 }
 
-.mew-form {
+.mew-form, .loading {
     margin: 0 auto;
     width: 50%;
+}
+
+.loading {
+    text-align: center;
 }
